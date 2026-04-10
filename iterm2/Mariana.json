@@ -137,7 +137,7 @@
   },
   "Vertical Spacing" : 1,
   "Use Tab Color (Light)" : false,
-  "Cursor Type" : 0,
+  "Cursor Type" : 2,
   "Columns" : 100,
   "Ansi 2 Color (Light)" : {
     "Green Component" : 1,
@@ -252,7 +252,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0.99263292551040649
   },
-  "Faint Text Alpha (Dark)" : 0.5,
+  "Faint Text Alpha (Dark)" : 1,
   "Blur Radius" : 10,
   "Rows" : 30,
   "Background Color (Light)" : {
@@ -325,7 +325,7 @@
   "Command" : "",
   "Minimum Contrast (Light)" : 0,
   "Character Encoding" : 4,
-  "Cursor Boost (Light)" : 0.49582457983193279,
+  "Cursor Boost (Light)" : 0.25,
   "Disable Window Resizing by Unfocused Sessions" : false,
   "Cursor Text Color (Light)" : {
     "Green Component" : 1,
@@ -490,9 +490,11 @@
     "Green Component" : 0.24931684136390686
   },
   "Foreground Color (Light)" : {
-    "Green Component" : 0.73333334922790527,
-    "Red Component" : 0.73333334922790527,
-    "Blue Component" : 0.73333334922790527
+    "Red Component" : 0.90000000000000002,
+    "Color Space" : "P3",
+    "Blue Component" : 0.90000000000000002,
+    "Alpha Component" : 1,
+    "Green Component" : 0.90000000000000002
   },
   "Ansi 4 Color" : {
     "Red Component" : 0.15404300391674042,
@@ -544,7 +546,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0.23660069704055786
   },
-  "Faint Text Alpha (Light)" : 0.5,
+  "Faint Text Alpha (Light)" : 0.50071428571428567,
   "Ambiguous Double Width" : false,
   "Selected Text Color" : {
     "Red Component" : 0,
